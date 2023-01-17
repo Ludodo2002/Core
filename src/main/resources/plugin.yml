@@ -1,0 +1,6 @@
+name: WishesCore
+version: '${project.version}'
+main: fr.redcraft.wishescore.Core
+api-version: 1.19
+authors: [ _Raidcraft ]
+description: Essential Wishes Server Plugins
